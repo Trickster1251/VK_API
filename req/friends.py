@@ -1,3 +1,5 @@
+# ПРОГРАММА ДЛЯ АНАЛИЗА ВОЗРАСТА СВОИХ ДРУЗЕЙ В ВК
+
 import requests
 from datetime import datetime
 from operator import itemgetter
